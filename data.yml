@@ -16,6 +16,7 @@ title: Caldera Interactive
 basedIn: Edmonton, Canada
 foundingDate: October 18, 2019
 website: https://calderainteractive.com
+phone: none
 
 # Address is multiline
 address:
@@ -37,7 +38,7 @@ socials:
 pressContact: contact@pizzaburger.studio
 
 # Simple and short description block for your company
-description: This is a fake press kit for a fake company called Pizza Burger Studio.
+description: Caldera Interactive is an indie game studio based in Edmonton, Canada dedicated to making quality wholesome games with cute aesthetics.
 
 # The company history
 histories:
@@ -48,12 +49,8 @@ histories:
 
 # Videos from YouTube, Vimeo or direct download
 trailers:
-  - name: Example from YouTube
-    youtube: er416Ad3R1g
-  - name: Example from vimeo
-    vimeo: 108650530
-  - name: Example with download
-    download: https://github.com/Tsukumogami-Software/milou/archive/refs/heads/main.zip
+  - name: The Rabbit Haul Pre-Alpha Gameplay Trailer (June 2024)
+    youtube: N-iA3njv2Gg
 
 # Awards and nominations
 awards:
