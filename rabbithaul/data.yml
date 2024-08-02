@@ -6,145 +6,123 @@
 type: product
 
 # Locale of the product page
-locale: en_GB
+locale: en_US
 
 # General information
-title: My Super Game
-website: http://pizzaburger.studio/mysupergame
+title: The Rabbit Haul
+website: https://calderainteractive.com
 
 # Simple and short description block for your product
-description: Here goes a quick description of your product or game
-
-# URL to request a copy
-pressCopyRequest: http://pizzaburger.studio/mysupergame/request/
-
-# Business partners: investors, publishers, etc...
-partners:
-  - type: Publisher
-    title: Pixelnest Studio
-    website: https://pixelnest.io/
-    basedIn: Rennes, France
-  - type: Distributor
-    title: Pizza Oven LLC
-
-# Release date(s)
-releaseDates:
-  - 04 Feb, 2024 (PC)
-  - 10 Oct, 2024 (Switch)
-
-# Platforms
-platforms:
-  - name: PC / Mac
-    link: http://itch.io/
-  - name: Switch
-    link: http://nintendo.com/
-  - name: Inc New Store (TBA)
-
-# Prices (by currency)
-prices: 
-  - currency: EUR
-    value: 20
-  - currency: USD
-    value: 20
-  - currency: GBP
-    value: 20
-  - currency: JPY
-    value: 2300
-
-# Relations allows linking multiple products together by their title
-relations:
-  - type: DLC
-    product: 'My Super Game: Ultimate Edition'
+description: The Rabbit Haul is a single-player cozy farming and tower defense game where you nurture your garden and upgrade your farm and abilities by day, and battle the mischievous Trash Panda Posse, a group of mean-spirited raccoons that want to rampage through your carefully cultivated garden and steal from your haul by night.
 
 # The product history
 histories:
-  - header: Add some storytelling here
-    text: Some backgrounds behind the creation process.
-  - header: Why are you developping this?
-    text: Most projects starts with a cool story.
+  - header: Grow Your Haul
+    text: Store harvested fruits and veggies in your haul to withstand gluttonous attacks from the raccoons at night. The more crops in your haul, the more that will be needed to take you down.
+  - header: Prepare Your Defences
+    text: Grow powerful plant towers during the day to defend your garden against waves of enemies at night. Harvest your garden and use the currency you earn to upgrade weapons and towers.
+  - header: Plan Your Garden
+    text: Strategically design your garden’s layout and select the right plants to grow. Each plant has unique abilities and synergies with other plants and wildlife.
+  - header: Plan a Delicate Ecosystem
+    text: Nurture and cultivate your garden’s natural defences. Learn about synergies between plant towers and crops and use biodiversity to overcome the hordes of trash pandas. Leverage symbiotic relationships between other forms of wildlife and take part in nature's ability to collaborate and adapt.
+
+# URL to request a copy
+pressCopyRequest: https://calderainteractive.com/contact/
+
+# Business partners: investors, publishers, etc...
+# partners:
+#   - type: Publisher
+#     title: Pixelnest Studio
+#     website: https://pixelnest.io/
+#     basedIn: Rennes, France
+#   - type: Distributor
+#     title: Pizza Oven LLC
+
+# Release date(s)
+releaseDates:
+  - Summer 2026
+
+# Platforms
+platforms:
+  - name: Steam
+    link: https://store.steampowered.com/app/2514330/The_Rabbit_Haul/
+
+# Prices (by currency)
+prices: 
+  - currency: USD
+    value: 20
+
+# Relations allows linking multiple products together by their title
+# relations:
+#   - type: DLC
+#     product: 'My Super Game: Ultimate Edition'
 
 # The most important features of your product
 features:
-  - List some "Key Sellings Points".
-  - Don't be too generic, don't be too pretentious.
-  - People like numbers
-  - Have you translated / localized your product?
+  - Hybrid Genre Innovation (cozy and strategy)
+  - Infinite Replayability
+  - Twitch Integrations
+  - Social Impact (based on real-world ecosystems)
 
 # Videos from YouTube, Vimeo or direct download
 trailers:
-  - name: Release Trailer
-    youtube: EtXajayBLzw
-  - name: Gameplay Video #2
-    youtube: EPNK1j3TMjU
-  - name: Early Access Trailer
-    youtube: EtyQMcc19xY
-  - name: 'Short gameplay preview: Burger vs Pizza'
-    download: https://github.com/Tsukumogami-Software/milou/archive/refs/heads/main.zip
+  - name: The Rabbit Haul Pre-Alpha Gameplay Trailer (June 2024)
+    youtube: N-iA3njv2Gg
 
 # Store links (ID)
 widgets:
-  appstore: 950812012
-  playstore: com.noodlecake.altosadventure
-  steam: 347160
-  humble: steredenn/7SDLfk23hw
-  itch: 27992
-  bandcamp: 1135613467
+  steam: 2514330
 
 # Awards and nominations
 awards:
-  - description: Game of the year without a doubt
-    info: Saint-Père-Marc-En-Poulet (France), 04 February, 2016
-  - description: Best soundtrack
-    info: A great game festival (World), 01 October, 2015
-  - description: Best MYGAMENGINE game
-    info: Deep into the woods (Forest), 31 March, 2014
+- description: CMF Production Funding (1m) - The Rabbit Haul
+  info: Canada Media Fund, 2024-2025
+- description: Winner CG Magazine Best Indie Game - The Rabbit Haul
+  info: Game Con Canada, June 16 2024
+- description: Winner GDC Pitch 2024 - The Rabbit Haul
+  info: GDC Pitch 2024, San Francisco, March 21 2024 
+- description: CMF Prototyping Funding (250K) - The Rabbit Haul
+  info: Canada Media Fund, 2023-2024
 
 # User / Reviewer appreciation
 quotes:
-  - description: This is my favorite game of all time.
-    name: Mum
-    website: At home
-    link: http://at.home/
-  - description: A very serious quote you're very proud of by someone you respect.
-    name: Master
-    website: Master's website
-    link: http://mast.er/
-  - description: 10/10 would play it again and again.
-    name: A friendly anonymous Steam reviewer
-    website: Steam review
-    link: http://steam.review/
+  - description: The Best Indie Games From Game Con Canada 2024
+    name: Dayna Eileen
+    website: CGMagazine
+    link: https://www.cgmagonline.com/articles/features/best-indie-games-game-con-canada-2024/
+  - description: Edmonton video game industry sees boom in size, international clout
+    name: Jaclyn Kucey
+    website: Global News
+    link: https://globalnews.ca/news/10401548/edmonton-video-game-industry-sees-boom-in-size-international-clout/
 
 # Miscellaneous links
-additionals:
-  - title: Original Soundtrack (OST)
-    description: Composed by an awesome musician. Listen for free, download for $3 at
-    link: http://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack
-  - title: Release announcement
-    description: Announcement are exciting, so we usually make blog posts or news about it on
-    link: http://pixelnest.io/journal/
+# additionals:
+#   - title: Original Soundtrack (OST)
+#     description: Composed by an awesome musician. Listen for free, download for $3 at
+#     link: http://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack
+#   - title: Release announcement
+#     description: Announcement are exciting, so we usually make blog posts or news about it on
+#     link: http://pixelnest.io/journal/
 
 # Information about your partners (company is auto generated)
-abouts:
-  - title: Tsukumogami Software
-    description: Tsukumogami Software is a software studio based in Breda, Netherlands.  We create games and software such as itako.app and the upcoming Dice'n Goblins game.
-  - title: Pizza Oven LLC
-    description: This is a fake company to illustrate the fact that you can have multiple about tags in your product page.
+# abouts:
+#   - title: Tsukumogami Software
+#     description: Tsukumogami Software is a software studio based in Breda, Netherlands.  We create games and software such as itako.app and the upcoming Dice'n Goblins game.
+#   - title: Pizza Oven LLC
+#     description: This is a fake company to illustrate the fact that you can have multiple about tags in your product page.
 
 # Staff
 credits:
-  - person: Alice GG
-    role: Software Engineer, Tsukumogami Software
-    website: https://alicegg.tech
-  - person: ColdEmber
-    role: Software Engineer, Tsukumogami Software
+  - person: Isael Huard
+    role: Producer, Sound Designer, Co-Founder
+  - person: Mickael Zerihoun
+    role: Programmer, Co-Founder
+  - person: Titus Lo
+    role: Artist, Designer, Co-Founder
+  - person: Courtney Nickerson
+    role: Community Manager
 
 # Additional contact informations
 contacts:
-  - name: Inquiries
-    mail: mysupergame@pizzaburger.studio
-  - name: Twitter
-    link: https://twitter.com/pizzaburgerstudio
-  - name: Facebook
-    link: https://facebook.com/pizzaburgerstudio
-  - name: Web
-    link: http://mysupergame.pizzaburger.studio/
+  - name: Business Inquiries
+    link: https://calderainteractive.com/contact/
