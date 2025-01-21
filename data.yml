@@ -6,7 +6,7 @@
 type: company
 
 # URL of your press kit
-baseURL: 'https://presskit.calderaintetactive.com'
+baseURL: "https://presskit.calderaintetactive.com"
 
 # Locale of the company page
 locale: en_US
@@ -46,14 +46,14 @@ socials:
 pressContact: press@calderainteractive.com
 
 # Simple and short description block for your company
-description: Caldera Interactive is an indie game studio based in Edmonton, Alberta, Canada dedicated to making quality wholesome games with cute aesthetics. 
+description: Caldera Interactive is an indie game studio based in Edmonton, Alberta, Canada dedicated to making quality wholesome games with cute aesthetics.
 
 # The company history
 histories:
   - header: Mission
     text: Caldera Interactive is a four-person diverse and bilingual (English/French) indie game studio committed to sharing their knowledge and fostering a vibrant community, helping each other grow and thrive in the video game industry. They aim to be a sustainable, safe place for creativity to thrive, offering exceptional games and fostering a community of outstanding individuals.
   - header: Story
-    text: Caldera Interactive was created in 2018 when Jeff Cho sought out fellow University of Alberta graduates, Isael Huard, Mickael Zerihoun and Titus Lo, to found a part-time game studio together. All individuals on the team were hand-picked for their passion and care for the gaming industry, as well as their diverse skill sets that complement each other’s. Caldera Interactive was officially incorporated in 2019 and Isael, Mickael and Titus started full-time operations of the studio in 2022. Since then, the team has worked on multiple prototypes that received over $1.5 million CAD from the Canada Media Fund and other funding bodies. The team also won the GDC Pitch competition in 2024 for their game, The Rabbit Haul, set to release in 2026. 
+    text: Caldera Interactive was created in 2018 when Jeff Cho sought out fellow University of Alberta graduates, Isael Huard, Mickael Zerihoun and Titus Lo, to found a part-time game studio together. All individuals on the team were hand-picked for their passion and care for the gaming industry, as well as their diverse skill sets that complement each other’s. Caldera Interactive was officially incorporated in 2019 and Isael, Mickael and Titus started full-time operations of the studio in 2022. Since then, the team has worked on multiple prototypes that received over $1.5 million CAD from the Canada Media Fund and other funding bodies. The team also won the GDC Pitch competition in 2024 for their game, The Rabbit Haul, set to release in 2026.
 
 # Videos from YouTube, Vimeo or direct download
 # trailers:
@@ -67,12 +67,11 @@ awards:
   - description: Winner CG Magazine Best Indie Game - The Rabbit Haul
     info: Game Con Canada, June 16 2024
   - description: Winner GDC Pitch 2024 - The Rabbit Haul
-    info: GDC Pitch 2024, San Francisco, March 21 2024 
+    info: GDC Pitch 2024, San Francisco, March 21 2024
   - description: CMF Prototyping Funding (250K) - The Rabbit Haul
     info: Canada Media Fund, 2023-2024
   - description: CMF Prototyping Funding (250K) - Project Ghost
     info: Canada Media Fund, 2022-2023
-
 
 # Customers / Users appreciation
 quotes:
@@ -88,7 +87,6 @@ quotes:
     name: City of Edmonton
     website: Why Edmonton
     link: https://why.edmonton.ca/stories/video-game-developers
-
 
 # # Miscellaneous links
 # additionals:
@@ -107,8 +105,6 @@ credits:
     role: Programmer, Co-Founder
   - person: Titus Lo
     role: Artist, Designer, Co-Founder
-  - person: Courtney Nickerson
-    role: Community Manager
 
 # Full contact informations
 contacts:

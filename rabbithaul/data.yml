@@ -48,7 +48,7 @@ platforms:
     link: https://store.steampowered.com/app/2514330/The_Rabbit_Haul/
 
 # Prices (by currency)
-prices: 
+prices:
   - currency: USD
     value: 20
 
@@ -75,14 +75,14 @@ widgets:
 
 # Awards and nominations
 awards:
-- description: CMF Production Funding (1m) - The Rabbit Haul
-  info: Canada Media Fund, 2024-2025
-- description: Winner CG Magazine Best Indie Game - The Rabbit Haul
-  info: Game Con Canada, June 16 2024
-- description: Winner GDC Pitch 2024 - The Rabbit Haul
-  info: GDC Pitch 2024, San Francisco, March 21 2024 
-- description: CMF Prototyping Funding (250K) - The Rabbit Haul
-  info: Canada Media Fund, 2023-2024
+  - description: CMF Production Funding (1m) - The Rabbit Haul
+    info: Canada Media Fund, 2024-2025
+  - description: Winner CG Magazine Best Indie Game - The Rabbit Haul
+    info: Game Con Canada, June 16 2024
+  - description: Winner GDC Pitch 2024 - The Rabbit Haul
+    info: GDC Pitch 2024, San Francisco, March 21 2024
+  - description: CMF Prototyping Funding (250K) - The Rabbit Haul
+    info: Canada Media Fund, 2023-2024
 
 # User / Reviewer appreciation
 quotes:
@@ -119,8 +119,6 @@ credits:
     role: Programmer, Co-Founder
   - person: Titus Lo
     role: Artist, Designer, Co-Founder
-  - person: Courtney Nickerson
-    role: Community Manager
 
 # Additional contact informations
 contacts:
