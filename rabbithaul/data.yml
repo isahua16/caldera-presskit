@@ -44,8 +44,10 @@ releaseDates:
 
 # Platforms
 platforms:
-  - name: Steam
+  - name: PC/Steam
     link: https://store.steampowered.com/app/2514330/The_Rabbit_Haul/
+  - name: Nintendo
+    link:
 
 # Prices (by currency)
 prices:
@@ -114,7 +116,7 @@ quotes:
 # Staff
 credits:
   - person: Isael Huard
-    role: Producer, Sound Designer, Co-Founder
+    role: CEO, Sound Designer, Co-Founder
   - person: Mickael Zerihoun
     role: Programmer, Co-Founder
   - person: Titus Lo
