@@ -77,18 +77,10 @@ awards:
 
 # Customers / Users appreciation
 quotes:
-  - description: Edmonton-based video game studio Caldera Interactive announces debut game
-    name: Ramin Ostad
-    website: Edmonton Journal
-    link: https://edmontonjournal.com/technology/gaming/edmonton-video-game-studio-caldera-interactive-rabbit-haul
   - description: Edmonton video game industry sees boom in size, international clout
     name: Jaclyn Kucey
     website: Global News
     link: https://globalnews.ca/news/10401548/edmonton-video-game-industry-sees-boom-in-size-international-clout/
-  - description: Creating new worlds of adventure and cooperation in Edmonton
-    name: City of Edmonton
-    website: Why Edmonton
-    link: https://why.edmonton.ca/stories/video-game-developers
 
 # # Miscellaneous links
 # additionals:
