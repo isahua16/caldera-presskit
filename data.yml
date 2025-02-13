@@ -6,7 +6,7 @@
 type: company
 
 # URL of your press kit
-baseURL: "https://presskit.calderaintetactive.com"
+baseURL: "https://calderaintetactive.com/presskit"
 
 # Locale of the company page
 locale: en_US
