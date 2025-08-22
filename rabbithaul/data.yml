@@ -68,6 +68,9 @@ features:
 
 # Videos from YouTube, Vimeo or direct download
 trailers:
+  - name: The Rabbit Haul - Alpha Trailer
+    youtube: q_yu9bAlgDk
+    download: https://drive.google.com/file/d/15jjve8Ru8rLvNjnx2ChBWe1UBT_yjH30/view?usp=sharing
   - name: The Rabbit Haul - Story Trailer
     youtube: kioMgmgLoXE
     download: https://drive.google.com/file/d/1m4iA_5o6tuCDtmZ1n2RvTpnOo-kXOwQl/view?usp=sharing
