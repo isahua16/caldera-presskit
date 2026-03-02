@@ -13,18 +13,27 @@ title: The Rabbit Haul
 website: https://calderainteractive.com
 
 # Simple and short description block for your product
-description: The Rabbit Haul is a single-player cozy farming and tower defense game where you nurture your garden and upgrade your farm and abilities by day, and battle the mischievous Trash Panda Posse, a group of mean-spirited raccoons that want to rampage through your carefully cultivated garden and steal from your haul by night.
+description: The Rabbit Haul is a roguelite farming and tower defense game that challenges you to grow crops, build symbiotic defenses, and protect your haul from the thieving Trash Panda Posse as you rebuild your hometown one run at a time.
 
 # The product history
 histories:
-  - header: Grow Your Haul
-    text: Store harvested fruits and veggies in your haul to withstand gluttonous attacks from the raccoons at night. The more crops in your haul, the more that will be needed to take you down.
-  - header: Prepare Your Defences
-    text: Grow powerful plant towers during the day to defend your garden against waves of enemies at night. Harvest your garden and use the currency you earn to upgrade weapons and towers.
-  - header: Plan Your Garden
-    text: Strategically design your garden’s layout and select the right plants to grow. Each plant has unique abilities and synergies with other plants and wildlife.
-  - header: Plan a Delicate Ecosystem
-    text: Nurture and cultivate your garden’s natural defences. Learn about synergies between plant towers and crops and use biodiversity to overcome the hordes of trash pandas. Leverage symbiotic relationships between other forms of wildlife and take part in nature's ability to collaborate and adapt.
+  - header: Farm by Day. Defend by Night. Do It Again.
+    text: Play as Sprout, a determined rabbit trying to rebuild their hometown after it has been torn apart by the mischievous Trash Panda Posse. By day, Sprout farms with purpose. You grow crops, build defensive plant towers, and shape your garden into something that can stand strong when night falls. Smart plant synergies and well-placed defenses will be the difference between keeping your haul safe… or watching it disappear! Take your time. Plan carefully. The night is just around the corner.
+
+  - header: Time to Put Some Pesky Raccoons in Their Place!
+    text: Before you know it, it’s dark out, and the Trash Panda Posse comes in waves. Raccoons swarm Sprout’s farm, each with their own set of tricks and behaviors, all trying to steal away your hard-earned crops! As the days go on, waves grow tougher, enemies get smarter, and your garden will need all the help it can get. Upgrade your towers, explore for stronger weapons, and fight hard to make it through until morning. Every night tests the care and thought you put into your garden during the day. So act, and choose wisely.
+
+  - header: A Roguelite Loop Built on Preparation and Pressure
+    text: Each run pushes Sprout a little further. The garden evolves and grows with every passing day -  every run is an opportunity to try a new strategy. allowing you to explore, find treasure, quests, upgrades, weapons,  and unexpected helpers or hindrances. When your run ends, all is not lost. You rebuild, unlock new options, and head back out better prepared for the next attempt. Failure is not the end. It’s part of the plan. Starting over doesn’t mean starting from scratch.
+
+  - header: Rebuild the Town, One Haul at a Time
+    text: Between runs, Sprout returns home with what crops they managed to save. Use your hard-earned harvests to restore shops, rebuild homes, and unlock new characters, merchants, and upgrades. As the town comes back to life, so do new systems, tools, and ways to survive the nights ahead. The stronger the town becomes, the tougher the challenges ahead.
+
+  - header: Find Your Playstyle
+    text: With a wide variety of crops, defensive towers, weapons, and upgrade paths, The Rabbit Haul encourages creativity. Help Sprout build a farm that overwhelms enemies with raw plant power, or one that relies on clever synergies, or something entirely your own! There is no single right way to survive. Just different ways to grow your garden, learn new techniques, and better prepare for when the sun sets. What are you waiting for? It’s time to dig in!
+
+  - header: Kick Trash Panda Posse Butts in Style
+    text: Unlock outfits as you rebuild the town and progress through runs. Try out a variety of looks, from cozy farmer to dripping in style, customize Sprout to reflect your mood! Match your weapon to lean into the vibe of your run! The more you play and explore, the more you unlock. Because looking good while defending your haul ~matters~.
 
 # URL to request a copy
 pressCopyRequest: https://calderainteractive.com/contact/
@@ -44,15 +53,13 @@ releaseDates:
 
 # Platforms
 platforms:
-  - name: PC/Steam
+  - name: Steam
     link: https://store.steampowered.com/app/2514330/The_Rabbit_Haul/
-  - name: Nintendo
-    link:
 
 # Prices (by currency)
-prices:
-  - currency: USD
-    value: 20
+# prices:
+#   - currency: USD
+#     value: TBD
 
 # Relations allows linking multiple products together by their title
 # relations:
@@ -62,21 +69,15 @@ prices:
 # The most important features of your product
 features:
   - Hybrid Genre Innovation (cozy and strategy)
-  - Infinite Replayability
-  - Twitch Integrations
-  - Social Impact (based on real-world ecosystems)
+  - High Replayability
+  - Twitch Integration
+  - Social Impact (synergies inspired by real-world ecosystems)
 
 # Videos from YouTube, Vimeo or direct download
 trailers:
-  - name: The Rabbit Haul - Alpha Trailer
-    youtube: q_yu9bAlgDk
-    download: https://drive.google.com/file/d/15jjve8Ru8rLvNjnx2ChBWe1UBT_yjH30/view?usp=sharing
-  - name: The Rabbit Haul - Story Trailer
-    youtube: kioMgmgLoXE
-    download: https://drive.google.com/file/d/1m4iA_5o6tuCDtmZ1n2RvTpnOo-kXOwQl/view?usp=sharing
-  - name: The Rabbit Haul - Reveal Trailer
-    youtube: U6eKJnCf7GY
-    download: https://drive.google.com/file/d/1QQjegMP8WiCwnzh_zaxTmjrfI9hZAKcG/view?usp=sharing
+  - name: The Rabbit Haul - Gameplay Trailer (2026)
+    youtube: ##
+    download: ##
 
 # Store links (ID)
 widgets:
@@ -145,3 +146,25 @@ credits:
 contacts:
   - name: Business Inquiries
     link: https://calderainteractive.com/contact/
+
+headInject: <script
+  id="Cookiebot"
+  src="https://consent.cookiebot.com/uc.js"
+  data-cbid="04505020-4694-4a29-8013-01d39e8a17be"
+  data-blockingmode="auto"
+  type="text/javascript"
+  ></script>
+  <!-- Google tag (gtag.js) -->
+  <script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-EPJGY7Z30R">
+  </script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+  dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-EPJGY7Z30R");
+  </script>

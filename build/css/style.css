@@ -1,0 +1,24 @@
+/* =========================================
+   Custom Layout Overrides
+   ========================================= */
+
+.page-nav {
+  top: 20px;
+}
+
+/* ---- Mobile breakpoint adjustment ---- */
+@media (max-width: 900px) {
+  /* Hide full page navigation instead of just title */
+  .page-nav {
+    display: none;
+  }
+
+  .page {
+    flex-direction: column-reverse;
+  }
+
+  .page-wrapper {
+    max-width: 100%;
+    width: 100%;
+  }
+}
