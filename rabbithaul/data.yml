@@ -36,7 +36,7 @@ histories:
     text: Unlock outfits as you rebuild the town and progress through runs. Try out a variety of looks, from cozy farmer to dripping in style, customize Sprout to reflect your mood! Match your weapon to lean into the vibe of your run! The more you play and explore, the more you unlock. Because looking good while defending your haul ~matters~.
 
 # URL to request a copy
-pressCopyRequest: https://calderainteractive.com/contact/
+pressCopyRequest: mailto:mike@untitledadlab.com
 
 # Business partners: investors, publishers, etc...
 # partners:
@@ -75,9 +75,9 @@ features:
 
 # Videos from YouTube, Vimeo or direct download
 trailers:
-  - name: The Rabbit Haul - Gameplay Trailer (2026)
-    youtube: ##
-    download: ##
+  - name: The Rabbit Haul - Official Gameplay Trailer (2026)
+    youtube: https://youtu.be/0nRBUWG3mRM
+    download: https://drive.google.com/file/d/1yc8m4SOL8G2-V9iksF6oD8d-RMedMC5v/view?usp=sharing
 
 # Store links (ID)
 widgets:
