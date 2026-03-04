@@ -76,7 +76,7 @@ features:
 # Videos from YouTube, Vimeo or direct download
 trailers:
   - name: The Rabbit Haul - Official Gameplay Trailer (2026)
-    youtube: https://youtu.be/0nRBUWG3mRM
+    youtube: 0nRBUWG3mRM?si=tW4UInisWj21055C
     download: https://drive.google.com/file/d/1yc8m4SOL8G2-V9iksF6oD8d-RMedMC5v/view?usp=sharing
 
 # Store links (ID)
